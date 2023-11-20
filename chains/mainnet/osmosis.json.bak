@@ -1,0 +1,32 @@
+{
+    "chain_name": "aura",
+    "coingecko": "aura",
+    "api": ["http://localhost:1317"],
+    "rpc": ["https://localhost:21657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "osmo",
+    "logo": "/logos/osmosis.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uosmo",
+        "symbol": "OSMO",
+        "exponent": "6",
+        "coingecko_id": "osmosis", 
+        "logo": "/logos/osmosis.jpg"
+    },{
+        "base": "uion",
+        "symbol": "ION",
+        "exponent": "6",
+        "coingecko_id": "ion", 
+        "logo": "/logos/osmosis.jpg"
+    },{
+        "base": "usomm",
+        "symbol": "SOMM",
+        "exponent": "6",
+        "coingecko_id": "somm", 
+        "logo": ""
+    }]
+}

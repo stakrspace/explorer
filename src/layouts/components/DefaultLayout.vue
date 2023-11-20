@@ -68,8 +68,8 @@ function selected(route: any, nav: NavLink) {
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
           <img class="w-10 h-10" src="../../assets/logo.svg" />
-          <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            Ping.pub
+          <h1 class="flex-1 ml-3 text-1xl font-semibold dark:text-white">
+            explorer.stakr.space
           </h1>
         </RouterLink>
         <div
@@ -210,7 +210,10 @@ function selected(route: any, nav: NavLink) {
           {{ item?.heading }}
         </div>
       </div>
+
       <div class="px-2">
+
+<!--
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
           {{ $t('module.sponsors') }}
         </div>
@@ -245,6 +248,12 @@ function selected(route: any, nav: NavLink) {
           </div>
         </a>
 
+
+-->
+
+
+
+
           <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
             Tools
           </div>
@@ -258,7 +267,7 @@ function selected(route: any, nav: NavLink) {
               Wallet Helper
             </div>
           </RouterLink>
-
+<!--
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a
           href="https://twitter.com/ping_pub"
@@ -297,9 +306,14 @@ function selected(route: any, nav: NavLink) {
             FAQ
           </div>
         </a>
+
+-->
+
       </div>
     </div>
-    <div class="xl:!ml-64 px-3 pt-4">
+    
+
+<div class="xl:!ml-64 px-3 pt-4">
       <!-- header -->
       <div
         class="flex items-center py-3 bg-base-100 mb-4 rounded px-4 sticky top-0 z-10"

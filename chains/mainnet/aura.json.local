@@ -1,0 +1,20 @@
+{
+    "chain_name": "xstaxy-1",
+    "coingecko": "aura-network",
+    "api": ["http://195.3.221.76:1317"],
+    "rpc": ["http://195.3.221.76:21657"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "aura",
+    "logo": "/logos/aura.jpg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uaura",
+        "symbol": "AURA",
+        "exponent": "0",
+        "coingecko_id": "aura-network",
+        "logo": "/logos/aura.jpg"
+    }]
+}

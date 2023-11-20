@@ -1,0 +1,22 @@
+{
+    "chain_name": "aura",
+    "registry_name": "aura",
+    "api": [
+        {"provider": "notional", "address": "http://localhost:1317"},
+    ],
+    "rpc": [
+        {"provider": "icycro", "address": "http://loaclhost:21657"}, 
+    ],
+    "sdk_version": "0.45.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/cosmos.svg",
+    "assets": [{
+        "base": "uaura",
+        "symbol": "AURA",
+        "exponent": "6",
+        "coingecko_id": "aura", 
+        "logo": "/logos/aura.svg"
+    }]
+}

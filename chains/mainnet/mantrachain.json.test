@@ -1,0 +1,20 @@
+{
+    "chain_name": "mantra",
+    "coingecko": "",
+    "api": ["https://api-t.mantra.nodestake.top/"],
+    "rpc": ["https://mantra-testnet-rpc.stake-town.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.37.2",
+    "coin_type": "",
+    "min_tx_fee": "",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantra.jpg",
+    "theme_color": "#112cd6",
+    "assets": [{
+        "base": "umantra",
+        "symbol": "MANTRA",
+        "exponent": "0",
+        "coingecko_id": "",
+        "logo": "/logos/mantra.jpg"
+    }]
+}
