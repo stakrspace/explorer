@@ -1,0 +1,20 @@
+{
+    "chain_name": "nois",
+    "coingecko": "nois",
+    "api": ["https://m-nois.api.utsa.tech"],
+    "rpc": ["https://nois.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "nois",
+    "logo": "/logos/nois.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "unois",
+        "symbol": "NOIS",
+        "exponent": "6",
+        "coingecko_id": "nois",
+        "logo": "/logos/nois.svg"
+    }]
+}

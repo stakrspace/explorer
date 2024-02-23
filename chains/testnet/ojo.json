@@ -1,0 +1,20 @@
+{
+    "chain_name": "humans",
+    "coingecko": "",
+    "api": ["https://fsn1.stakr.space:1317"],
+    "rpc": ["https://testnet.humans.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.11",
+    "coin_type": "",
+    "min_tx_fee": "",
+    "addr_prefix": "heart",
+    "logo": "/logos/humans.svg",
+    "theme_color": "#112cd6",
+    "assets": [{
+        "base": "aheart",
+        "symbol": "HEART",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/humans.svg"
+    }]
+}

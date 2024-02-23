@@ -1,0 +1,20 @@
+{
+    "chain_name": "rebus",
+    "coingecko": "rebus",
+    "api": ["https://api.rebuschain.com:26657"],
+    "rpc": ["https://rebus.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "rebus",
+    "logo": "/logos/rebus.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "arebus",
+        "symbol": "REBUS",
+        "exponent": "18",
+        "coingecko_id": "rebus",
+        "logo": "/logos/rebus.svg"
+    }]
+}

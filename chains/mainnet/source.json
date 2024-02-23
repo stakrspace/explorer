@@ -1,0 +1,20 @@
+{
+    "chain_name": "source",
+    "coingecko": "source",
+    "api": ["https://source.api.m.stavr.tech"],
+    "rpc": ["https://source.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.12",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "source",
+    "logo": "/logos/source.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "usource",
+        "symbol": "SOURCE",
+        "exponent": "18",
+        "coingecko_id": "source",
+        "logo": "/logos/source.svg"
+    }]
+}

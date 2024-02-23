@@ -1,0 +1,20 @@
+{
+    "chain_name": "assetmantle",
+    "coingecko": "assetmantle",
+    "api": ["https://rest.assetmantle.one"],
+    "rpc": ["https://assetmantle.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "mntl",
+    "logo": "/logos/mantle.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "umntl",
+        "symbol": "MNTL",
+        "exponent": "6",
+        "coingecko_id": "assetmantle",
+        "logo": "/logos/mantle.svg"
+    }]
+}

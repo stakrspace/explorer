@@ -1,0 +1,20 @@
+{
+    "chain_name": "omniflix",
+    "coingecko": "omniflix",
+    "api": ["https://omniflix.kingnodes.com"],
+    "rpc": ["https://omniflixhub.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "aura",
+    "logo": "/logos/omniflix.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uflix",
+        "symbol": "FLIX",
+        "exponent": "6",
+        "coingecko_id": "omniflix",
+        "logo": "/logos/omniflix.svg"
+    }]
+}

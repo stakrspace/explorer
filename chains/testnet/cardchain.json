@@ -1,0 +1,20 @@
+{
+    "chain_name": "cardchain",
+    "coingecko": "aura-network",
+    "api": ["https://m-aura.api.utsa.tech"],
+    "rpc": ["https://aura-rpc.ramuchi.tech"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "aura",
+    "logo": "/logos/cardchain.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uaura",
+        "symbol": "AURA",
+        "exponent": "6",
+        "coingecko_id": "aura-network",
+        "logo": "/logos/cardchain.svg"
+    }]
+}

@@ -1,0 +1,20 @@
+{
+    "chain_name": "gitopia",
+    "coingecko": "gitopia",
+    "api": ["https://gitopia-api.polkachu.com:443"],
+    "rpc": ["https://gitopia.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.13",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "lore",
+    "logo": "/logos/gitopia.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "ulore",
+        "symbol": "LORE",
+        "exponent": "6",
+        "coingecko_id": "gitopia",
+        "logo": "/logos/gitopia.svg"
+    }]
+}

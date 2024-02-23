@@ -1,0 +1,20 @@
+{
+    "chain_name": "passage",
+    "coingecko": "passage",
+    "api": ["https://passage-api.polkachu.com"],
+    "rpc": ["https://passage.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.16",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "pasg",
+    "logo": "/logos/passage.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "upasg",
+        "symbol": "PASG",
+        "exponent": "6",
+        "coingecko_id": "passage",
+        "logo": "/logos/passage.svg"
+    }]
+}

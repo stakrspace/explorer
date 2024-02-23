@@ -1,0 +1,20 @@
+{
+    "chain_name": "uptick",
+    "coingecko": "uptick",
+    "api": ["https://uptick.api.m.stavr.tech"],
+    "rpc": ["https://uptick.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "uptick",
+    "logo": "/logos/uptick.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "auptick",
+        "symbol": "UPTICK",
+        "exponent": "18",
+        "coingecko_id": "uptick",
+        "logo": "/logos/uptick.svg"
+    }]
+}
