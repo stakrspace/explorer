@@ -18,15 +18,15 @@
     "favorite": "Favorite",
     "add_to_favorite": "Add to favorite",
     "all_blockchains": "All Blockchain",
- "sponsors": "Sponsors",
+    "sponsors": "Sponsors",
     "links": "Links"
   },
   "pages": {
-    "title": "STAKR.space Dashboard",
+    "title": "Ping Dashboard",
     "title_all": "404",
     "tag": "Beta",
     "tag_all": "Page Not Found",
-    "slogan": "Make your crypto great again!",
+    "slogan": "Ping Dashboard is not just an explorer but also a wallet and more ... 🛠",
     "description": "Cosmos Ecosystem Blockchains 🚀",
     "search_placeholder": "Search Chain",
     "description_all": "We couldn't find the page you are looking for.",
