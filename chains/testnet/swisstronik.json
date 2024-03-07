@@ -1,0 +1,20 @@
+{
+    "chain_name": "swisstronik",
+    "coingecko": "swisstronik",
+    "api": ["https://testnet.swisstronik.api.srv.stakr.space"],
+    "rpc": ["https://testnet.swisstronik.rpc.srv.stakr.space"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.5",
+    "coin_type": "118",
+    "min_tx_fee": "7",
+    "addr_prefix": "swtr",
+    "logo": "/logos/swisstronik.svg",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uswtr",
+        "symbol": "SWTR",
+        "exponent": "18",
+        "coingecko_id": "swisstronik",
+        "logo": "/logos/swisstronik.svg"
+    }]
+}
