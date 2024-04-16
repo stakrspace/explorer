@@ -4,7 +4,7 @@
     "api": ["https://source.api.m.stavr.tech"],
     "rpc": ["https://source.rpc.srv.stakr.space"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.12",
+    "sdk_version": "0.45.15",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "source",

@@ -1,13 +1,13 @@
 {
     "chain_name": "tgrade",
     "coingecko": "tgrade",
-    "api": ["https://rpc.mainnet-1.tgrade.confio.run"],
-    "rpc": ["https://humans.rpc.srv.stakr.space"],
+    "api": ["https://tgrade.api.srv.stakr.space"],
+    "rpc": ["https://tgrade.rpc.srv.stakr.space"],
     "snapshot_provider": "",
     "sdk_version": "0.45.9",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "aura",
+    "addr_prefix": "tgrade",
     "logo": "/logos/tgrade.svg",
     "theme_color": "#812cd6",
     "assets": [{

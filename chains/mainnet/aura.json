@@ -1,10 +1,10 @@
 {
     "chain_name": "aura",
     "coingecko": "aura-network",
-    "api": ["https://m-aura.api.utsa.tech"],
-    "rpc": ["https://aura-rpc.ramuchi.tech"],
+    "api": ["https://aura.api.srv.stakr.space"],
+    "rpc": ["https://aura.rpc.srv.stakr.space"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.1",
+    "sdk_version": "0.47.5",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "aura",

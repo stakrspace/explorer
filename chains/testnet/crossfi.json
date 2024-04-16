@@ -1,20 +1,25 @@
 {
     "chain_name": "crossfi",
     "coingecko": "",
-    "api": ["https://crossfi.api.srv.stakr.space"],
+    "api": [
+
+        {"provider": "STAKR.space", "address": "https://crossfi.api.srv.stakr.space"},
+{"provider": "Stake-Take", "address": "https://api.crossfi.stake-take.com"}
+],
     "rpc": ["https://crossfi-rpc.srv.stakr.space"],
     "snapshot_provider": "",
     "sdk_version": "0.46.13",
-    "coin_type": "118",
-    "min_tx_fee": "800",
-    "addr_prefix": "mpx",
+    "keplr_features": ["eth-address-gen", "eth-key-sign"],
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "mx",
     "logo": "/logos/crossfi.svg",
     "theme_color": "#812cd6",
     "assets": [{
         "base": "mpx",
-        "symbol": "MPX",
+        "symbol": "PX",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "crossfi",
         "logo": "/logos/crossfi.svg"
     }]
 }

@@ -1,20 +1,20 @@
 {
-    "chain_name": "humans",
-    "coingecko": "",
-    "api": ["https://fsn1.stakr.space:1317"],
-    "rpc": ["https://testnet.humans.rpc.srv.stakr.space"],
+    "chain_name": "ojo",
+    "coingecko": "ojo",
+    "api": ["https://ojo.api.srv.stakr.space"],
+    "rpc": ["https://ojo.rpc.srv.stakr.space"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.11",
-    "coin_type": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
     "min_tx_fee": "",
-    "addr_prefix": "heart",
-    "logo": "/logos/humans.svg",
+    "addr_prefix": "ojo",
+    "logo": "/logos/ojo.svg",
     "theme_color": "#112cd6",
     "assets": [{
-        "base": "aheart",
-        "symbol": "HEART",
+        "base": "uojo",
+        "symbol": "OJO",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/humans.svg"
+        "logo": "/logos/ojo.svg"
     }]
 }
